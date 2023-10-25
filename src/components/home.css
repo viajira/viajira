@@ -1,0 +1,13 @@
+* {
+  font-family: "Tilt Neon", sans-serif;
+  font-weight: bold;
+  font-size: 16px;
+  margin: 0;
+  padding: 0;
+}
+.font-gabarito {
+  font-family: "Gabarito", sans-serif;
+}
+.font-neon {
+  font-family: "Tilt Neon", sans-serif;
+}
